@@ -34,3 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
 ### method two
 
 link my cool little jsdelivr cdn thing
+
+```
+<script src="https://cdn.jsdelivr.net/gh/DoxrGitHub/tiiny-banner@main/remove.js"></script>
+```
